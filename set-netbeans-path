@@ -1,0 +1,24 @@
+FTP > Edit > Preferances > File Editing > Filetype Association
+
+Past below code :)
+
+
+php /bin/sh "/usr/local/netbeans-8.1/bin/netbeans"
+log /bin/sh "/usr/local/netbeans-8.1/bin/netbeans"
+/ /bin/sh "/usr/local/netbeans-8.1/bin/netbeans"
+yml /bin/sh "/usr/local/netbeans-8.1/bin/netbeans"
+. /bin/sh "/usr/local/netbeans-8.1/bin/netbeans"
+scss /bin/sh "/usr/local/netbeans-8.1/bin/netbeans"
+swp /bin/sh "/usr/local/netbeans-8.1/bin/netbeans"
+ini /bin/sh "/usr/local/netbeans-8.1/bin/netbeans"
+tpl /bin/sh "/usr/local/netbeans-8.1/bin/netbeans"
+twig /bin/sh "/usr/local/netbeans-8.1/bin/netbeans"
+js /bin/sh "/usr/local/netbeans-8.1/bin/netbeans"
+htaccess /bin/sh "/usr/local/netbeans-8.1/bin/netbeans"
+txt2016-09-19 /bin/sh "/usr/local/netbeans-8.1/bin/netbeans"
+css /bin/sh "/usr/local/netbeans-8.1/bin/netbeans"
+tpl__ /bin/sh "/usr/local/netbeans-8.1/bin/netbeans"
+png /bin/sh "/usr/local/netbeans-8.1/bin/netbeans"
+md /bin/sh "/usr/local/netbeans-8.1/bin/netbeans"
+json /bin/sh "/usr/local/netbeans-8.1/bin/netbeans"
+conf /bin/sh "/usr/local/netbeans-8.1/bin/netbeans"
