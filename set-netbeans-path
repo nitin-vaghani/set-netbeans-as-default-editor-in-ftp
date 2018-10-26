@@ -22,3 +22,7 @@ png /bin/sh "/usr/local/netbeans-8.1/bin/netbeans"
 md /bin/sh "/usr/local/netbeans-8.1/bin/netbeans"
 json /bin/sh "/usr/local/netbeans-8.1/bin/netbeans"
 conf /bin/sh "/usr/local/netbeans-8.1/bin/netbeans"
+
+As per Ubuntu 18.04 with netbeans 8.2 I got following path
+
+php /bin/sh "/home/imobdev6/netbeans-8.2"
