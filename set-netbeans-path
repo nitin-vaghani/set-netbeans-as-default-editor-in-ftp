@@ -1,28 +1,27 @@
+Install Netbeans 8.2 : wget download.netbeans.org/netbeans/8.2/final/bundles/netbeans-8.2-linux.sh && chmod +x netbeans-8.2-linux.sh && sudo sh netbeans-8.2-linux.sh
+
 FTP > Edit > Preferances > File Editing > Filetype Association
+
+As per Ubuntu 18.04 with netbeans 8.2 I got following netbeans8.2 path
 
 Past below code :)
 
-
-php /bin/sh "/usr/local/netbeans-8.1/bin/netbeans"
-log /bin/sh "/usr/local/netbeans-8.1/bin/netbeans"
-/ /bin/sh "/usr/local/netbeans-8.1/bin/netbeans"
-yml /bin/sh "/usr/local/netbeans-8.1/bin/netbeans"
-. /bin/sh "/usr/local/netbeans-8.1/bin/netbeans"
-scss /bin/sh "/usr/local/netbeans-8.1/bin/netbeans"
-swp /bin/sh "/usr/local/netbeans-8.1/bin/netbeans"
-ini /bin/sh "/usr/local/netbeans-8.1/bin/netbeans"
-tpl /bin/sh "/usr/local/netbeans-8.1/bin/netbeans"
-twig /bin/sh "/usr/local/netbeans-8.1/bin/netbeans"
-js /bin/sh "/usr/local/netbeans-8.1/bin/netbeans"
-htaccess /bin/sh "/usr/local/netbeans-8.1/bin/netbeans"
-txt2016-09-19 /bin/sh "/usr/local/netbeans-8.1/bin/netbeans"
-css /bin/sh "/usr/local/netbeans-8.1/bin/netbeans"
-tpl__ /bin/sh "/usr/local/netbeans-8.1/bin/netbeans"
-png /bin/sh "/usr/local/netbeans-8.1/bin/netbeans"
-md /bin/sh "/usr/local/netbeans-8.1/bin/netbeans"
-json /bin/sh "/usr/local/netbeans-8.1/bin/netbeans"
-conf /bin/sh "/usr/local/netbeans-8.1/bin/netbeans"
-
-As per Ubuntu 18.04 with netbeans 8.2 I got following path
-
-php /bin/sh "/home/imobdev6/netbeans-8.2"
+php /bin/sh "/usr/local/netbeans-8.2/bin/netbeans"
+log /bin/sh "/usr/local/netbeans-8.2/bin/netbeans"
+/ /bin/sh "/usr/local/netbeans-8.2/bin/netbeans"
+yml /bin/sh "/usr/local/netbeans-8.2/bin/netbeans"
+. /bin/sh "/usr/local/netbeans-8.2/bin/netbeans"
+scss /bin/sh "/usr/local/netbeans-8.2/bin/netbeans"
+swp /bin/sh "/usr/local/netbeans-8.2/bin/netbeans"
+ini /bin/sh "/usr/local/netbeans-8.2/bin/netbeans"
+tpl /bin/sh "/usr/local/netbeans-8.2/bin/netbeans"
+twig /bin/sh "/usr/local/netbeans-8.2/bin/netbeans"
+js /bin/sh "/usr/local/netbeans-8.2/bin/netbeans"
+htaccess /bin/sh "/usr/local/netbeans-8.2/bin/netbeans"
+txt /bin/sh "/usr/local/netbeans-8.2/bin/netbeans"
+css /bin/sh "/usr/local/netbeans-8.2/bin/netbeans"
+tpl__ /bin/sh "/usr/local/netbeans-8.2/bin/netbeans"
+png /bin/sh "/usr/local/netbeans-8.2/bin/netbeans"
+md /bin/sh "/usr/local/netbeans-8.2/bin/netbeans"
+json /bin/sh "/usr/local/netbeans-8.2/bin/netbeans"
+conf /bin/sh "/usr/local/netbeans-8.2/bin/netbeans"
